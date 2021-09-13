@@ -4,9 +4,7 @@
 <p align="left"> </p>
 
 Hi there! I am Sajawal Hassan!
-s/o Dr. Athar Kharal, 3 Siblings,
-In class 5, study in FIC
-(Fazia Inter Collage)
+s/o Dr. Athar Kharal and
 9 years old.
 
 Curruntly learning Angular. I have been coding for
