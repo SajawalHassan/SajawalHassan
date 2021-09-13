@@ -25,7 +25,6 @@ SKILLS:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalHassan&layout=compact&theme=radical))](https://github.com/SajawalHassan/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SajawalHassan)
 
 ### ------------------------------------------
 
