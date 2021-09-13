@@ -12,7 +12,7 @@ In class 5, study in FIC
 Curruntly learning Angular. I have been coding for
 about 2 years now, now Im a front end devloper.
 My dream job would be to get a job at faang
-(Facebook, Amazon, Apple)
+(Facebook, Amazon, Apple, Google)
 or any other huge company.
 
 SKILLS:
