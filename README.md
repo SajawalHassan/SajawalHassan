@@ -1,3 +1,4 @@
+### ------------------------------------------
 ### Hi, I'm Sajawal Hassan
 
 <p align="left"> </p>
@@ -14,16 +15,16 @@ My dream job would be to get a job at faang
 (Facebook, Amazon, Apple)
 or any other huge company.
 
-###
-
 SKILLS:
      ReactJS, Html, Css, Godot, unity
+     
+### ------------------------------------------
       
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajawalHassan&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SajawalHassan)
 
-###
+### ------------------------------------------
 
 ### Contact Me!
 
@@ -40,6 +41,6 @@ SKILLS:
   <img align="left" alt="Sajawal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<div />
+### ㅤ
 
-Fun fact: I love pizza!
+### ------------------------------------------
