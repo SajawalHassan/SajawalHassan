@@ -21,8 +21,6 @@ SKILLS:
 ![SajawalHassan GitHub stats](https://github-readme-stats.vercel.app/api?username=SajawalHassan&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalHassan&layout=compact&theme=radical))](https://github.com/SajawalHassan/github-readme-stats)
-
 
 ### ------------------------------------------
 
