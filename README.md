@@ -40,4 +40,6 @@ SKILLS:
   <img align="left" alt="Sajawal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<div />
+
 Fun fact: I love pizza!
