@@ -7,7 +7,7 @@ Hi there! I am Sajawal Hassan!
 s/o Dr. Athar Kharal and
 9 years old.
 
-Curruntly learning Angular. I have been coding for
+Curruntly learning Django. I have been coding for
 about 2 years now, now Im a front end devloper.
 My dream job would be to get a job at faang
 (Facebook, Amazon, Apple, Google)
