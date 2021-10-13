@@ -7,14 +7,14 @@ Hi there! I am Sajawal Hassan!
 s/o Dr. Athar Kharal and
 9 years old.
 
-Curruntly learning Computer. I have been coding for
+Curruntly learning Computer Vision. I have been coding for
 about 2 years now, now Im a front end devloper.
 My dream job would be to get a job at faang
 (Facebook, Amazon, Apple, Google)
 or any other huge company.
 
 SKILLS:
-     ReactJS, Html, Css, Godot, Unity, Python, Open-cv
+     ReactJS, Html, Css, Godot, Unity, Python, Open-cv, Media-pipe
      
 ### ------------------------------------------
       
