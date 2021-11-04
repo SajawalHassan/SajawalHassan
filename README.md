@@ -15,7 +15,7 @@ My dream job would be to get a job at faang
 or any other huge company.
 
 SKILLS:
-     ReactJS, NextJS, TailwindCss, Html, Css, Godot, Unity, Python, Open-cv, Mediapipe
+     ReactJS, NextJS, TailwindCss, Html, Css, Godot, Unity, Python, Open-cv, Mediapipe, Django
      
 ### ------------------------------------------
       
