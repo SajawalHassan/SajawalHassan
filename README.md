@@ -8,13 +8,14 @@ s/o Dr. Athar Kharal and
 9 years old.
 
 I have been coding for
-about 2 years now, now Im a front end devloper.
+about 2 years now, now Im a front end devloper,
+computer visionst, game dev and now learning backend
 My dream job would be to get a job at faang
 (Facebook, Amazon, Apple, Google)
 or any other huge company.
 
 SKILLS:
-     ReactJS, Html, Css, Godot, Unity, Python, Open-cv, Media-pipe
+     ReactJS, NextJS, TailwindCss, Html, Css, Godot, Unity, Python, Open-cv, Mediapipe
      
 ### ------------------------------------------
       
