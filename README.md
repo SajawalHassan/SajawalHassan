@@ -1,9 +1,9 @@
 ### ------------------------------------------
-Hi there, my name is Sajawal Hassan and I am the son of Athar Kharal. I wanted to learn programming because I wanted to create games. I started with Godot and couldn't move onto unity because my computer wasn't good enough but on the positive side that was the reason I went into web-development.
+Hi there, my name is Sajawal Hassan. I wanted to learn programming because I wanted to create games. I started with Godot and couldn't move onto Unity because my computer wasn't good enough but on the positive side that was the reason I went into Web-Development.
 
-In web-development I learned alot of stuff like HTML5, CSS3, javascript, reactjs, express, mongodb, node and much more. It was a long journey, a journey that took 2 years as of writing this; but this journey isn't done.
+In Web-Development I learned alot of stuff like HTML5, CSS3, Javascript, Reactjs, Express, Mongodb, Node and much more. It was a long journey, a journey that took 2 years as of this writing; but this journey isn't done.
 
-I still continue on this journey without seeing the end and I love it! I hope this journey never ends no matter what happens to me.
+I still continue on this journey without seeing the end and I love it!
 
 SKILLS:
      ReactJS, NextJS, TailwindCss, Html, Css, Godot, Unity, Python, Open-cv, Mediapipe, Django
