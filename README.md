@@ -1,9 +1,9 @@
 ### ------------------------------------------
-Hi, I'm Sajawal Hassan, a programmer with a passion for developing cutting-edge applications. From a young age, I have been fascinated by the world of technology and its impact on our daily lives. This fascination led me to dive into the world of programming and explore its endless possibilities.
+Hi, I'm Sajawal Hassan, I am a programmer with a big passion for developing applications. From a young age, I have been amazed by the world of technology and because of it, it has led me to dive into the world of programming. When I become old, I'd like to have a business that is successful.
 
-Over the years, I have honed my skills and become proficient in programming languages like Javascript, Python, GdScript, C# for Unity, HTML5, and CSS3. I am also well-versed in various frameworks such as ReactJS, NextJS, and TailwindCSS, as well as databases like MongoDB and Firebase, and back-end frameworks like ExpressJS and Django. Additionally, I have experience working with various libraries including Pandas, MatplotLib, Tensorflow, Pytorch, Numpy, Redux, Redux Toolkit, Open-CV, and Mediapipe.
+Over the years, I have learnt a lot of skills and become pretty good in programming languages like Javascript, Python, GdScript, C#. I am also well-versed in various frameworks such as ReactJS, NextJS, and TailwindCSS, as well as databases like MongoDB and Firebase, and back-end frameworks like ExpressJS and Django. Additionally, I have experience working with various libraries including Pandas, MatplotLib, Tensorflow, Pytorch, Numpy, Redux, Redux Toolkit, Open-CV, and Mediapipe.
 
-My main objective is to create powerful applications that solve real-world problems. Whether you need a simple application or a complex one, I am dedicated to bringing your ideas to life. With my expertise in programming, I can help you create applications that are user-friendly, responsive, and capable of handling large amounts of data while maintaining peak performance. I am excited about the possibilities that programming can bring and look forward to working with you to create something amazing!
+My main objective is to create powerful applications that solve real-world problems. I can create applications that are user-friendly, responsive, and capable of handling large amounts of data while maintaining peak performance. I look forward to my hopefully never ending my amazing journey and working to the best I can
      
 ### ------------------------------------------
       
