@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer / Data scientist
 ------------------------------
 
-Hi, I've been in the cs industry for quite a few years so learning a lot of stuff in various industries like Web development, Data science, Game development and dipped my toes in a little bit of (not much) cyber security, cloud architecture etc...
+Hi there! My name is Sajawal Hassan. I'm a 16 year old web developer based in Pakistan, and I've been building websites for over 8 years!
 
-In Web development I've learnt HTML5, CSS3 and Javascript along with Typescript. I've also learnt ReactJS, NextJs along with libraries like TailwindCSS, React Query and lots of other ones. As for Data Science I am quite knowledgeable about Tensorflow and Pytorch, mainly working with Tensorflow. I also know libraries like Pandas, Numpy etc... I obviously know python since that was what I used for Data Science.
+I began my journey at just 8 years old, starting with HTML and CSS. As I grew, so did my skills—I eventually mastered the MERN stack MongoDB, Express, React, Node.js and later moved on to more modern technologies like Next.js, PrismaORM, and TailwindCSS.
 
-For Game Development I started with Godot, learnt gdscript and got pretty far before switching to Unity where I never finished a game (except for a single one from a tutorial) but did make many prototypes like a platformer, multiplayer shooters and messed around with a bit of shader graphs. I also learnt C# in the process
+I've created full stack clones of platforms like Reddit and Discord, and also built the official website for CRSOM, a national university event that handled over 15,000+ users. These projects show not just my development skills, but also my ability to build real world, production ready applications.
+
+Today, I work as a Freelance Website Developer, creating Front End, Back End, or Full Stack Websites for clients. Behind every website for a client, is a little kid creating a website out of utter passion, I value that not only is the client happy with the website, but also me! If you're looking for a website, contact me!.
 
 *   🌍  I'm based in Pakistan, Multan
 *   🖥️  See my portfolio [here](http://sajawalhassan.vercel.app/)
